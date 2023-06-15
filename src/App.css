@@ -1,0 +1,25 @@
+.content-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: bisque;
+
+}
+
+.box-container-admin,
+.box-container-utente,
+.box-container-alert {
+    display: inline-block;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.header {
+    background-color: aqua;
+}
+
+.footer {
+    background-color: forestgreen;
+}
